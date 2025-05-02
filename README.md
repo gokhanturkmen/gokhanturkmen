@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I’m Gökhan Türkmen 👋
 
-<!--
-**gokhanturkmen/gokhanturkmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Full-Stack Developer | Team Lead | Software Architect**
 
-Here are some ideas to get you started:
+Nearly 15 years crafting web and mobile solutions, guiding teams, and architecting systems that scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I’m Working On
+
+- Leading development of a cross-platform **React & .NET Core** data-visualization dashboard
+- Evolving **Piri**, my custom C# object mapper, with richer dependency-injection extensions
+- Mentoring junior engineers in TypeScript and best-practice testing
+
+## 🌱 Currently Exploring
+
+- Advanced microservices patterns with Docker & Kubernetes
+- React Server Components and React Native performance optimizations
+
+## 💼 Experience Highlights
+
+- **Software Architect**: Designed multi-tenant SaaS platforms handling millions of records
+- **Team Lead**: Coaching teams of 5–10 developers in Agile environments
+- **Full-Stack Developer**: From SQL Server and PostgreSQL backends to React/React Native frontends
+- **Consultant & Tutor**: Delivered hands-on workshops and private coaching for dev teams worldwide
+
+## 🛠️ Tech Stack
+
+- **Languages:** C#, JavaScript/TypeScript, Python, SQL
+- **Frameworks:** ASP.NET Core, Express.js, React, React Native, Node.js
+- **Databases:** SQL Server, PostgreSQL, SQLite, MongoDB
+- **Tools & DevOps:** Docker, Kubernetes, GitHub Actions, Azure, AWS, Jira
+
+## 📂 Repositories
+
+- **4 public projects:**
+  - [piri](https://github.com/gokhanturkmen/piri) – Simple object mapper for C#  
+  - [Piri.Extensions.DependencyInjection](https://github.com/gokhanturkmen/Piri.Extensions.DependencyInjection) – Dependency Injection Extensions for Piri Object Mapper  
+  - [DeepSeek-LLM](https://github.com/gokhanturkmen/DeepSeek-LLM) – DeepSeek LLM: Let there be answers  
+  - [get-input-value-chrome-ext](https://github.com/gokhanturkmen/get-input-value-chrome-ext) – "Get Input Value" Chrome extension  
+- **45 private repos** powering client solutions, internal tools, and experimental prototypes
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/gokhan-turkmen)  
+- 🐦 [X](https://x.com/gokhan_gturkmen)  
+- 🌐 [GitHub](https://github.com/gokhanturkmen)
+
+---
+
+*Thanks for stopping by! Feel free to reach out if you’d like to collaborate or chat about code.*
