@@ -44,7 +44,6 @@ Nearly 15 years crafting web and mobile solutions, guiding teams, and architecti
 
 - 💼 [LinkedIn](https://linkedin.com/in/gokhan-turkmen)  
 - 🐦 [X](https://x.com/gokhan_gturkmen)  
-- 🌐 [GitHub](https://github.com/gokhanturkmen)
 
 ---
 
