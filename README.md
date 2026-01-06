@@ -33,12 +33,14 @@ Nearly 15 years crafting web and mobile solutions, guiding teams, and architecti
 
 ## 📂 Repositories
 
-- **4 public projects:**
+- **7 public projects:**
   - [piri](https://github.com/gokhanturkmen/piri) – Simple object mapper for C#  
   - [Piri.Extensions.DependencyInjection](https://github.com/gokhanturkmen/Piri.Extensions.DependencyInjection) – Dependency Injection Extensions for Piri Object Mapper  
-  - [DeepSeek-LLM](https://github.com/gokhanturkmen/DeepSeek-LLM) – DeepSeek LLM: Let there be answers  
+  - [km106-github-workshop](https://github.com/gokhanturkmen/km106-github-workshop) – Github usage example for KM106 class  
+  - [microservices-day1](https://github.com/gokhanturkmen/microservices-day1) – Microservices workshop Day 1  
+  - [microservices-day2](https://github.com/gokhanturkmen/microservices-day2) – Microservices workshop Day 2  
   - [get-input-value-chrome-ext](https://github.com/gokhanturkmen/get-input-value-chrome-ext) – "Get Input Value" Chrome extension  
-- **45 private repos** powering client solutions, internal tools, and experimental prototypes
+  - [gokhanturkmen](https://github.com/gokhanturkmen/gokhanturkmen) – My GitHub profile README
 
 ![gokhanturkmen's Stats](https://github-readme-stats.vercel.app/api?username=gokhanturkmen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![gokhanturkmen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhanturkmen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
