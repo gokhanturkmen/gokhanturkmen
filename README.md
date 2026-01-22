@@ -2,7 +2,7 @@
 
 👨‍💻 **Full-Stack Developer | Team Lead | Software Architect**
 
-Nearly 15 years crafting web and mobile solutions, guiding teams, and architecting systems that scale.
+Over 15 years crafting web and mobile solutions, guiding teams, and architecting systems that scale.
 
 ---
 
