@@ -38,7 +38,7 @@ Over 15 years crafting web and mobile solutions, guiding teams, and architecting
   - [Piri.Extensions.DependencyInjection](https://github.com/gokhanturkmen/Piri.Extensions.DependencyInjection) – Dependency Injection Extensions for Piri Object Mapper  
   - [DeepSeek-LLM](https://github.com/gokhanturkmen/DeepSeek-LLM) – DeepSeek LLM: Let there be answers  
   - [get-input-value-chrome-ext](https://github.com/gokhanturkmen/get-input-value-chrome-ext) – "Get Input Value" Chrome extension  
-- **45 private repos** powering client solutions, internal tools, and experimental prototypes
+- **55 private repos** powering client solutions, internal tools, and experimental prototypes
 
 ![gokhanturkmen's Stats](https://github-readme-stats.vercel.app/api?username=gokhanturkmen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![gokhanturkmen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhanturkmen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
