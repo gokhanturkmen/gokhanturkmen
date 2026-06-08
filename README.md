@@ -32,9 +32,7 @@ Over 15 years crafting web and mobile solutions, guiding teams, and architecting
 ## 📂 Repositories
 
 - **62 public & private repos** powering client solutions, internal tools, and experimental prototypes
-
-![gokhanturkmen's Stats](https://github-readme-stats.vercel.app/api?username=gokhanturkmen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![gokhanturkmen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhanturkmen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+- **numerous private repos in organizations**
 
 ## 📫 Let’s Connect
 
